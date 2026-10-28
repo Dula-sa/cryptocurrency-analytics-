@@ -8,7 +8,8 @@ Designed with an executive dark-mode layout, this project translates complex fin
 ---
 
 ## 📸 Dashboard Preview
-
+### 1. Market Overview Page
+![cryptocurrency-analytics-](pages/overview.png)
 ---
 
 ## 🛠️ Tools & Technologies Used
